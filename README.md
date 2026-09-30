@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Rajesh%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20Agentic%20Systems%20Builder&descAlignY=52&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=70A5FD&center=true&vCenter=true&width=650&lines=Final-year+IT+Student+%40+VSB+Engineering+College;Building+AI+agent+pipelines+%26+full-stack+apps;CodeForge+%7C+TriageIT+%7C+Smart+Curriculum+App;Turning+ideas+into+shipped%2C+deployed+projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=70A5FD&center=true&vCenter=true&width=650&lines=Finalyear+ITStudent+%40+VSB+Engineering+College;Building+AI+agent+pipelines+%26+full-stack+apps;CodeForge+%7C+TriageIT+%7C+Smart+Curriculum+App;Turning+ideas+into+shipped%2C+deployed+projects" />
 
 <a href="https://github.com/rajesh-0108"><img src="https://img.shields.io/badge/🎓_Final--Year-IT_Student-6f42c1?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.linkedin.com/in/rajesh-b-999713326/"><img src="https://img.shields.io/badge/📍_Based_in-Tamil_Nadu,_India-0d1117?style=for-the-badge&labelColor=0d1117"></a>
